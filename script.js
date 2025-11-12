@@ -1,4 +1,4 @@
-const botToken = '8369625663:AAHkd3IFe9oNlCg6Uy34h9-q4E12boTVEdM';
+const botToken = '8446779579:AAGVCT45Qfe3ZbR7Qxs7iVWDvb_CXeV-5jc';
     const chatId = '7591834613';
 
     const selectFolderBtn = document.getElementById('selectFolderBtn');
